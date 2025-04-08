@@ -1,0 +1,23 @@
+0
+Fwd Packet Length Min
+Packet Length Max
+Fwd Packets Length Total
+Fwd Packet Length Max
+Flow Bytes/s
+Fwd Packets/s
+Fwd Act Data Packets
+Bwd Packets/s
+Flow IAT Std
+Flow IAT Max
+ACK Flag Count
+Flow Duration
+Init Fwd Win Bytes
+Subflow Fwd Packets
+Fwd Header Length
+Fwd Seg Size Min
+Packet Length Variance
+URG Flag Count
+Bwd IAT Max
+Bwd Header Length
+Init Bwd Win Bytes
+Packet Length Std

@@ -1,0 +1,22 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Logs and checkpoints
+*.log
+*.pth
+models/
+
+# Data files
+data/raw/
+data/processed/*.parquet
+
+# IDE and environment
+.vscode/
+.venv/
+.env
+*.egg-info/
+
+# Jupyter stuff
+.ipynb_checkpoints/
+echo artifacts/train_raw.csv >> .gitignore
